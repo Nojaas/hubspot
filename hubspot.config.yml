@@ -1,0 +1,12 @@
+defaultPortal: sandboxTest
+portals:
+  - name: sandboxTest
+    portalId: 9334005
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CLyy9_f1LhIIAA0ADAAA4AEY9dm5BCDMwK0GKO7pDDIZAM6aPB9Th6VgIMt8TZxVRCd-IFYpqmukXTogAAAEQQAAAHgAAAAAAAAAAIABAAAAAAAEwADAB2D-_zFCGQDOmjwfEZ8hJ1V6z_KQjNWf_XOZP2KSvAs
+        expiresAt: '2021-02-01T19:07:10.540Z'
+    personalAccessKey: >-
+      CiQ4MWM4MTlmMi1mYmMxLTRiZTktYTBiMC1hNDhmZWYxNjQ2OGUQ9dm5BBjMwK0GKhkABeaRghbh6MPqTgOGfcTgxleOMUOEYHUu
